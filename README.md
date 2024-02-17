@@ -3,7 +3,7 @@
 📌 _Here are a few things that describe me:_
 
 - 💼 &nbsp;I'm currently working full-time at [Nagarro.](https://www.nagarro.com/) as a Sr. Staff Engineer
-- 🔖 &nbsp;Currently working on a project, will OpenSource soon (no timeline though 😜)
+// - 🔖 &nbsp;Currently working on a project, will OpenSource soon (no timeline though 😜)
 - 🔭 &nbsp;Personal goal ─ spend more time working on Code
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning Devops
